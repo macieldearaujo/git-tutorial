@@ -1,2 +1,4 @@
 Olá meu nome é Douglas
 Aqui uma nova linha.
+
+Agora eu adicionei uma nova branch staging.
